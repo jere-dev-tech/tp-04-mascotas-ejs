@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "nombre": "Milo",
+      "especie": "Perro",
+      "edad": 3,
+      "descripcion": "Perro tranquilo y cariñoso.",
+      "estado": "En adopción",
+      "imagen": "/img/mi-perro.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Luna",
+      "especie": "Gato",
+      "edad": 2,
+      "descripcion": "Gata curiosa y sociable.",
+      "estado": "En adopción",
+      "imagen": "/img/mi-perro.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Toby",
+      "especie": "Perro",
+      "edad": 5,
+      "descripcion": "Perro adulto y muy compañero.",
+      "estado": "Reservada",
+      "imagen": "/img/mi-perro.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Nina",
+      "especie": "Gato",
+      "edad": 1,
+      "descripcion": "Gata joven y juguetona.",
+      "estado": "En adopción",
+      "imagen": "/img/mi-perro.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Rocky",
+      "especie": "Perro",
+      "edad": 4,
+      "descripcion": "Perro amigable y activo.",
+      "estado": "Adoptada",
+      "imagen": "/img/mi-perro.jpg"
+    }
+  ]
